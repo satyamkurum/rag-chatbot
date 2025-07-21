@@ -50,9 +50,10 @@ Before running locally, make sure to set your environment variables:
 GOOGLE_API_KEY=your_gemini_api_key
 PINECONE_API_KEY=your_pinecone_api_key
 ```
-## About Me
-  Satyam Kurum
-- Data Scientist | ML Developer | 2025 NITK Surathkal Graduate
-- Passionate about GenAI, NLP, and creative machine learning apps
+## Author
 
-- You are free to use, modify, and distribute it with attribution.
+**Satyam Kurum**  
+_Machine Learning & Web Enthusiast_  
+[LinkedIn](https://linkedin.com/in/satyamkurum) | [GitHub](https://github.com/satyamkurum)
+
+> Feel free to ⭐️ this repo and fork it for your own projects!
