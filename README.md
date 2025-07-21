@@ -49,3 +49,10 @@ Before running locally, make sure to set your environment variables:
 ```bash
 GOOGLE_API_KEY=your_gemini_api_key
 PINECONE_API_KEY=your_pinecone_api_key
+```
+## About Me
+  Satyam Kurum
+- Data Scientist | ML Developer | 2025 NITK Surathkal Graduate
+- Passionate about GenAI, NLP, and creative machine learning apps
+
+- You are free to use, modify, and distribute it with attribution.
