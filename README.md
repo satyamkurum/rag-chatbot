@@ -1,4 +1,4 @@
-# RAG PDF Chatbot – Ask Your PDF Anything!
+# RAG PDF Chatbot – Ask Your PDF Anything
 
 A Streamlit-based chatbot that allows you to upload a PDF file and ask questions about its content. Built using:
 
